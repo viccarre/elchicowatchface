@@ -4,13 +4,22 @@
         ""
     ],
     "companyName": "Victor Carre\u00f1o",
-    "longName": "Tutorial 1",
+    "longName": "El chico watchface",
     "projectType": "native",
     "resources": {
-        "media": []
+        "media": [
+            {
+                "file": "images/background.png",
+                "name": "IMAGE_BACKGROUND",
+                "targetPlatforms": [
+                    "basalt"
+                ],
+                "type": "png"
+            }
+        ]
     },
     "sdkVersion": "3",
-    "shortName": "Tutorial 1",
+    "shortName": "elchico",
     "targetPlatforms": [
         "basalt"
     ],
