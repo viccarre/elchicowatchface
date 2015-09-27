@@ -1,0 +1,22 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Victor Carre\u00f1o",
+    "longName": "Tutorial 1",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Tutorial 1",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "3116d701-7c10-4c7e-8784-ecb23728d882",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
